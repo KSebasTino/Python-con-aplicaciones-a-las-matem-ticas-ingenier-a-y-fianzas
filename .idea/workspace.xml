@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fdbbf50-76b0-4f32-91a5-198ca885851b" name="Changes" comment="">
+    <list default="true" id="2fdbbf50-76b0-4f32-91a5-198ca885851b" name="Changes" comment="Ingreso de los 3 ultimos trabajos">
       <change afterPath="$PROJECT_DIR$/.idea/Python con aplicaciones a las matemáticas, ingeniería y fianzas.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -30,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KSebasTino"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KSebasTino/Python-con-aplicaciones-a-las-matem-ticas-ingenier-a-y-fianzas.git",
+    "accountId": "34054b5e-a7b8-42fa-be1e-2ae01886258f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -59,7 +71,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.4.15 Dibujo de un cuadrado.">
+  <component name="RunManager">
     <configuration name="3.15 Convertir de grados sexagesimales a radianes y viceversa." type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python con aplicaciones a las matemáticas, ingeniería y fianzas" />
       <option name="ENV_FILES" value="" />
@@ -175,12 +187,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725324298729</updated>
-      <workItem from="1725398234254" duration="2486000" />
+      <workItem from="1725398234254" duration="2981000" />
     </task>
+    <task id="LOCAL-00001" summary="Ingreso de los 3 ultimos trabajos">
+      <option name="closed" value="true" />
+      <created>1725400920295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725400920295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ingreso de los 3 ultimos trabajos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ingreso de los 3 ultimos trabajos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -196,6 +221,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_con_aplicaciones_a_las_matemáticas__ingeniería_y_fianzas$4_14_Cálculo_de_la_raíz_cuadrada_.coverage" NAME="4.14 Cálculo de la raíz cuadrada. Coverage Results" MODIFIED="1725400344876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_con_aplicaciones_a_las_matemáticas__ingeniería_y_fianzas$3_15_Convertir_de_grados_sexagesimales_a_radianes_y_viceversa_.coverage" NAME="3.15 Convertir de grados sexagesimales a radianes y viceversa. Coverage Results" MODIFIED="1725399757525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_con_aplicaciones_a_las_matemáticas__ingeniería_y_fianzas$4_15_Dibujo_de_un_cuadrado_.coverage" NAME="4.15 Dibujo de un cuadrado. Coverage Results" MODIFIED="1725400745934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_con_aplicaciones_a_las_matemáticas__ingeniería_y_fianzas$4_15_Dibujo_de_un_cuadrado_.coverage" NAME="4.15 Dibujo de un cuadrado. Coverage Results" MODIFIED="1725400848532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
